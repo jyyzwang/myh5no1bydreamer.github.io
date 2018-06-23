@@ -1230,7 +1230,7 @@ Swiper.prototype = {
 		}), $("#ikea-audio .audio_open").css({
 			"background-position": .0781 * -_width
 		});
-		var yourtime = "2014-03-28";
+		var yourtime = "2018-06-21";
 		yourtime = yourtime.replace(/-/g, "/");
 		var nowday = new Date,
 			tgday = new Date(Date.parse(yourtime));
